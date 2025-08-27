@@ -65,4 +65,3 @@ Para rodar o projeto:
 - Java 17+
 - IntelliJ IDEA
 - Git/GitHub
-
